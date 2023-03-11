@@ -1,0 +1,3 @@
+/cygdrive/d/Courses/ComputerPhysics/homework_1/cmake-build-debug/CMakeFiles/homework_1_random_numbers.dir
+/cygdrive/d/Courses/ComputerPhysics/homework_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Courses/ComputerPhysics/homework_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

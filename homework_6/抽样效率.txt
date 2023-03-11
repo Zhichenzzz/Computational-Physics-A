@@ -1,0 +1,8 @@
+Number=10000,efficiency=0.78765
+Number=50000,efficiency=0.789864
+Number=100000,efficiency=0.788911
+Number=150000,efficiency=0.789058
+Number=200000,efficiency=0.789646
+Number=500000,efficiency=0.789478
+Number=1000000,efficiency=0.789123
+Number=10000000,efficiency=0.789516

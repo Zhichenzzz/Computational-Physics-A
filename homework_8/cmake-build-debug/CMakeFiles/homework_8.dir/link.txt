@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/homework_8.dir/main.cpp.o CMakeFiles/homework_8.dir/Sch.cpp.o CMakeFiles/homework_8.dir/Integration.cpp.o -o homework_8.exe -Wl,--out-implib,libhomework_8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

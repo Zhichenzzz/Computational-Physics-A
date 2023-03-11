@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/homework_4.dir/main.cpp.o CMakeFiles/homework_4.dir/Sch.cpp.o CMakeFiles/homework_4.dir/F_function.cpp.o -o homework_4.exe -Wl,--out-implib,libhomework_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

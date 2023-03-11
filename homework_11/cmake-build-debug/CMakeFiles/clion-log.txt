@@ -1,0 +1,4 @@
+C:\Users\HUAWEI\AppData\Local\JetBrains\CLion2022.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/c++.exe -G "CodeBlocks - Unix Makefiles" -S /cygdrive/d/Courses/ComputerPhysics/homework_11 -B /cygdrive/d/Courses/ComputerPhysics/homework_11/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Courses/ComputerPhysics/homework_11/cmake-build-debug

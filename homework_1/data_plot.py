@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+f=open(".\\cmake-build-debug\\Random_data.txt")
+a = f.read()
+p = list(float(i) for i in a.split())
+plt.scatter(p[0:100000:4],p[4:100001:4],marker="*",s=0.1, c='blue')
+plt.xlabel("x random")
+plt.ylabel("y random")
+plt.title("when l = 4")
+plt.savefig("Scatter_plot.png")
+plt.show()

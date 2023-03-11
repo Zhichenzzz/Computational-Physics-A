@@ -1,0 +1,8 @@
+Please input N:1000
+舍选法效率：0.803859
+
+Please input N:5000
+舍选法效率：0.783576
+
+Please input N:10000
+舍选法效率：0.792959

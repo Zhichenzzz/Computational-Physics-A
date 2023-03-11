@@ -1,0 +1,165 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/Platform/CYGWIN-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/HUAWEI/AppData/Local/JetBrains/CLion2022.2/cygwin_cmake/share/cmake-3.23.2/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/cygdrive/d/Courses/ComputerPhysics/homework_16/cmake-build-debug",
+		"source" : "/cygdrive/d/Courses/ComputerPhysics/homework_16"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

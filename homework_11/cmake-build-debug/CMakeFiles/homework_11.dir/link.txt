@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/homework_11.dir/main.cpp.o CMakeFiles/homework_11.dir/Sch.cpp.o CMakeFiles/homework_11.dir/Particle.cpp.o CMakeFiles/homework_11.dir/DBM.cpp.o -o homework_11.exe -Wl,--out-implib,libhomework_11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/homework_1_random_numbers.dir/Random_num.cpp.o CMakeFiles/homework_1_random_numbers.dir/Sch.cpp.o -o homework_1_random_numbers.exe -Wl,--out-implib,libhomework_1_random_numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
