@@ -16,3 +16,5 @@
 
 - Period doubling bifurcation and Feigenbaum number simulation
 - DLA fractal dimension simulation
+
+Finished by Zhichen Zeng, USTC.
